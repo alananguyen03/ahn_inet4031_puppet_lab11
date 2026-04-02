@@ -1,4 +1,4 @@
-#Lab 11: Configuration as Code (CaC)
+# Lab 11: Configuration as Code (CaC)
 
 ## Overview
 This lab uses Puppet to manage users and groups on a system and deploy a LAMP stack (Apache, PHP, MariaDB). 
