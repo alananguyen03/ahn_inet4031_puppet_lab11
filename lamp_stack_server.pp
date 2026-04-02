@@ -29,6 +29,7 @@ service { 'mariadb':
   enable => true,
   require => Package['mariadb-server'],
 }
+
 package { 'libapache2-mod-php':
   ensure  => installed,
   require => Package['apache2'],
